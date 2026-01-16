@@ -11,5 +11,6 @@
   "enableJavaScript": true,
   "allowedHostnames": [],
   "smartIgnore": true,
-  "showRenderErrors": true
+  "showRenderErrors": true,
+  "ignoreType": "layout"
 }
