@@ -1,0 +1,15 @@
+{
+  "web": {
+    "browsers": [
+      "chrome"
+    ],
+    "viewports": [
+      [1920]
+    ]
+  },
+  "waitForTimeout": 3000,
+  "enableJavaScript": true,
+  "allowedHostnames": [],
+  "smartIgnore": true,
+  "showRenderErrors": true
+}

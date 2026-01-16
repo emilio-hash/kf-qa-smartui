@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "upload-figma": "smartui upload-figma-web figma-designs.json --markBaseline",
+    "capture-web": "smartui capture urls.json --config smartui-web.json",
+    "test": "npm run upload-figma && npm run capture-web",
+    "test:figma-only": "npm run upload-figma",
+    "test:web-only": "npm run capture-web"
+  },
+  "dependencies": {
+    "@lambdatest/smartui-cli": "^4.1.53"
+  }
+}

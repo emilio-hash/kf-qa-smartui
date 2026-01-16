@@ -1,0 +1,21 @@
+{
+  "web": {
+    "browsers": ["chrome"],
+    "viewports": [[1920, 1080]]
+  },
+  "figma": {
+    "depth": 1,
+    "configs": [
+      {
+        "figma_file_token": "bCTTWwuSLLdQ03Lqka57K3",
+        "figma_ids": [
+          "1669-3868"
+        ],
+        "screenshot_names": [
+          "TWIL 1"
+        ]
+      }
+    ]
+  }
+}
+
