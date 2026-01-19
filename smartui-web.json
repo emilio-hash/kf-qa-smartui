@@ -10,7 +10,6 @@
   "waitForTimeout": 3000,
   "enableJavaScript": true,
   "allowedHostnames": [],
-  "smartIgnore": true,
-  "showRenderErrors": true,
-  "ignoreType": "layout"
+  "smartIgnore": false,
+  "showRenderErrors": true
 }

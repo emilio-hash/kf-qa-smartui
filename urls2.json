@@ -1,0 +1,12 @@
+[
+  {
+    "name": "this-week-in-leadership-aug19.png",
+    "url": "https://korn-ferry-staging.webflow.io/insights/this-week-in-leadership/this-week-in-leadership-aug19",
+    "waitForTimeout": 3000
+  },
+  {
+    "name": "this-week-in-leadership-feb4.png",
+    "url": "https://korn-ferry-staging.webflow.io/insights/this-week-in-leadership/this-week-in-leadership-feb4",
+    "waitForTimeout": 3000
+  }
+]

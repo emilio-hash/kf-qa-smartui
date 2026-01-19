@@ -4,7 +4,9 @@ ask_support.txt
 Baseline_TWIL-1_figma_design.png
 export_tokens.sh
 template-designs.json
-urls2.json
+# urls2.json
 node_modules
 .smartui.log
 readme-notes.md
+troubleshooting-error.md
+comparison-strategy-v101.png
