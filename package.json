@@ -1,7 +1,7 @@
 {
   "scripts": {
     "upload-figma": "smartui upload-figma-web figma-designs.json --markBaseline",
-    "capture-web": "smartui capture urls.json --buildName v1.0.0 --config smartui-web.json",
+    "capture-web": "smartui capture urls.json --buildName v1.0.1 --config smartui-web.json",
     "test": "npm run upload-figma && npm run capture-web",
     "test:figma-only": "npm run upload-figma",
     "test:web-only": "npm run capture-web"
